@@ -1,5 +1,5 @@
 WARNING: This project is in ALPHA STAGE
-
+WARNING: This project will only work on Windows until further noticed.
 
 
 
